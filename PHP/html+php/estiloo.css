@@ -1,0 +1,29 @@
+html {
+    font: 15pt Arial;
+    background-color: rgba(255,255,255,.8);
+    margin-left: 550px;
+    margin-top: 200px;
+}
+
+span {
+    font-size: 20pt;
+    color: #e60000;
+}
+label {
+    margin-top: 10px;
+}
+input {
+    margin-left:10px;
+    color: #273747;
+    text-decoration: none;
+    font-weight: bold;
+    font: 11pt Helvetica;
+}
+input#botao {
+    position:relative;
+    text-align: justify;
+}
+
+input:hover {
+    text-decoration: underline;
+}
