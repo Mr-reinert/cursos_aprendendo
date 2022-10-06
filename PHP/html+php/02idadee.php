@@ -16,7 +16,7 @@
 
 	?>
 	<br>
-	<a href="formulario.html">Voltar</a>
+	<a href="escolhecor.html">Voltar</a>
 	</div>
 </body>
 </html>
